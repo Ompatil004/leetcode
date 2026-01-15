@@ -15,3 +15,4 @@ var gcdOfStrings = function(str1, str2) {
         
         
     }
+    console.log(gcdOfStrings(abababababab,ab));
